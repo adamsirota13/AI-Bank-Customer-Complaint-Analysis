@@ -1,4 +1,4 @@
-# Bank-Customer-Complaint-Analysis
+# AI-Bank-Customer-Complaint-Analysis
 Project my team and I made in Aptitude's AI Pre-Internship Program at Citigroup. We used Python and its libraries to analyze a datset of complaints filed to banks, draw business insights from the complaints, and train a machine learning NLP model to classify new incoming complaints.
 # Results
 This is a confusion matrix that shows the results and accuracies of the classifier model.
